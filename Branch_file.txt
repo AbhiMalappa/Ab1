@@ -4,3 +4,4 @@ Changes made my ab, pushed into first_branch
 
 trying out squash push 
 squash 2 
+squash 3             
